@@ -1,7 +1,3 @@
-#José Eduardo González Barbosa
-#Alexis Darien Zuníga Vera
-#José Francisco Góngora Rangel
-
 import cplex
 
 # Create an instance of a linear problem to solve
